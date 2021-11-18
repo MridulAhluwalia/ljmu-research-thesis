@@ -1,0 +1,30 @@
+-------------------------------------------------------
+Q&A
+-------------------------------------------------------
+
+1. Left right fundus image treat seperatly?
+2. How to handle mismatch in label?
+3. Should we ignore keywords?
+4. Which select few diseases to focus on?
+5. What could be the next steps in EDA?
+6. Any role of age/sex in the anlysis of fundus images?
+7. Decribe each eye issue in detail?
+
+-------------------------------------------------------
+Anomaly Keywords
+-------------------------------------------------------
+
+• Normal (N)
+• Glaucoma (G)
+• Diabetes (D)
+• Hypertension (H)
+• Cataract (C)
+• Pathological Myopia (M)
+• Age-related Macular Degeneration (A)
+• Other diseases/abnormalities (O)
+
+-------------------------------------------------------
+Q&A
+-------------------------------------------------------
+
+1. Left right fundus image treat seperatly? - read in papers
