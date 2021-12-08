@@ -6,7 +6,7 @@ from torch import nn
 
 class Critic(nn.Module):
     """
-    DCGAN Critic
+    WGAN Critic
     """
 
     def __init__(
@@ -84,7 +84,7 @@ class Critic(nn.Module):
 
 class Generator(nn.Module):
     """
-    DCGAN Generator
+    WGAN Generator
     """
 
     def __init__(
